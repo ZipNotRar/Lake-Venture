@@ -1,5 +1,5 @@
 # Lake-Venture
-## The files presented here show the logic behind production of the 2D platformer "The Alien & The Princess":-
+## The files presented here show the logic behind production of the Virtual Reality Underwater Diving Experience "Lake-Venture":-
 
 * The [**MirrorCopy.cs script**](MirrorCopy.cs) gives the patient an illusion that their limbless arm is presented in-game thereby mirroring the movement of the arm with which they are experiencing the atmosphere.
 * The [**Spawnning.cs script**](Spawnning.cs) initiates random artifacts and aquatic animals within the game with a given interval of time.
