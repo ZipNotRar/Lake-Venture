@@ -8,7 +8,7 @@
 * Finally, the [**mirrorHand.cs script**](mirrorHand.cs) is responsible for mirroring the position and rotation of the patient's controller "hand" in the game.
 * Finally, the [**swimmer.cs script**](swimmer.cs) is responsible for creating an underwater fog effect at the very moment of patient going underwater.
 
-### Additionally, there are 2 Videoclips which will give you a run-through of what to expect in the game and the internal sections of each script.
+### Additionally, this clip will give you a structured explaination on how these scripts create gameplay mechanics.
 Code-Explaination             |
 :-------------------------:|
 [![](http://img.youtube.com/vi/bnEiD5oTgOc/0.jpg)](http://www.youtube.com/watch?v=bnEiD5oTgOc "Lake Venture") |
